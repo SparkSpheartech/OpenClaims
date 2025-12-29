@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.json
+mock_claims_data.csv
+.DS_Store
+.vscode/
