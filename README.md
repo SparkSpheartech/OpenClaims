@@ -5,6 +5,16 @@
 
 ---
 
+## ❌ The Problem
+
+Healthcare payers and TPAs process millions of claims daily — and every one carries financial risk. Overpayments, duplicate billing, incorrect coding, and missing diagnosis codes cost the industry billions annually. Manual audits are slow, inconsistent, and miss patterns. Meanwhile, claims data contains protected health information (PHI) that makes sharing with vendors risky and compliance-heavy. Organizations need to audit AND sanitize — but traditional tools do one or the other, never both.
+
+**Before:** Manual spreadsheet audits, hours per file, inconsistent rule application, PHI exposure risk, missed overpayments, no scalable compliance.
+
+**After (AI Agent Fleet):** Automated sanitization strips PHI while preserving data integrity, then AI audit runs 3 rule categories (financial, clinical, temporal) in seconds. Zero compliance gaps, every claim checked, audit-ready reports generated instantly.
+
+---
+
 ## 🧠 AI Agent Architecture
 
 ```mermaid
